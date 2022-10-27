@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(30, 30, 30);
+    height: 100vh;  
+    margin: 0px;
+    overflow: hidden;
+}
+
+.title  {
+    position: absolute;
+    top: 50%;  
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-size: 7rem;
+    color: black;
+    text-shadow: 0 0 5px white;
+}
